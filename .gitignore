@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.env
+lab_results/
+results/
+out/
+test/
+*.pyc
+.DS_Store
